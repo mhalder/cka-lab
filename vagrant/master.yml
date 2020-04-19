@@ -1,6 +1,5 @@
 ---
-
 - name: hello master
   hosts: all
   tasks:
-   - ping:
+    - ping:
